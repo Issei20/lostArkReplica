@@ -41,7 +41,7 @@ function App() {
         <img className="logoText" src={logo} alt="logo"></img></div>
     <div className="line"></div>
     <p className="odyssey">YOUR ODYSSEY AWAITS</p>
-    <div className="line"></div>
+    <div className="lineBot"></div>
     <p className="playText">PLAY FREE FEBRUARY 11, 2022</p>
    <div className="containerSubBecome"><button className="becomeBtn">BECOME A FOUNDER</button><p className="watchTrailer">WATCH TRAILER</p></div> 
    </div>
@@ -51,13 +51,13 @@ function App() {
       <div className="containerAllArkweek">
       <img className="arkweek" src={arkweek} alt="arkweek"></img>
       <div className="containerArkweek">
-      <h1 className="titleArkweek">Ark Week sponsored by LG</h1> <p className="paraArkweek">Celebrate the Western Launch of Lost Ark with an exciting week of original programing packed with fan favorite streamers, prizes, and Drops. Begins February 7th at 5 p.m. PST (1 a.m. UTC). <a href="">Learn more</a></p>
+      <h1 className="titleArkweek">Ark Week sponsored by LG</h1> <p className="paraArkweek">Celebrate the Western Launch of Lost Ark with an exciting week of original programing packed with fan favorite streamers, prizes, and Drops. Begins February 7th at 5 p.m. PST (1 a.m. UTC). <a className="weekLink" href="">Learn more</a></p>
       </div>
       </div>
       <div className="lineSection"></div>
       </div>
       </div>
-    <div className="lineSection"></div>
+    <div className="lineSectionTop"></div>
     <div className="divNew">
       <div className="containerDivNew">
         <h1 className="bigTitleNews">NEWS</h1>
@@ -135,7 +135,7 @@ function App() {
         </div>
       </div>
       </div>
-    <div className="lineSection"></div>
+    <div className="lineSectionTop"></div>
     <div className="divMedia">
       <h2 className="mediaTitle">MEDIA</h2>
       <div className="lineSectionBox"></div>
@@ -165,7 +165,7 @@ function App() {
         </div>
         <p className="note">Published by Amazon Games under license. © 2021-2022 Smilegate RPG, Inc. All rights reserved. Lost Ark and the Lost Ark logo are trademarks of Smilegate RPG, Inc. Used by Amazon Games under license.
           </p>
-         <p className="noteE">This a project from the Odin Project, PROJECT: JAVASCRIPT FINAL PROJECT "Replicate your favorite website as close as possible"</p>
+         <p className="noteE">This is a project from the Odin Project, PROJECT: JAVASCRIPT FINAL PROJECT "Replicate your favorite website as close as possible"</p>
       </div>
     </div>
   );
