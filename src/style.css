@@ -585,7 +585,6 @@ body {
 }
 
 .backBtn {
-  
     display: flex;
     justify-content: center;
     align-items: center;
@@ -601,7 +600,7 @@ body {
     background-image: url(./la-icon.png);
     background-repeat: no-repeat;
     background-size: 70px 65px;
-    background-position:WATCH center;
+    background-position:center;
     opacity: 0.6;
     position: relative;
     margin-left: 615px;
