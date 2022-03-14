@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/lostArkReplica/static/css/main.b8883058.css",
+    "main.js": "/lostArkReplica/static/js/main.5d2c7d72.js",
+    "static/media/bgApropos.jpeg": "/lostArkReplica/static/media/bgApropos.e1621bb8e1ea51b7a67a.jpeg",
+    "static/media/cash.png": "/lostArkReplica/static/media/cash.4c9e0898683efcf12898.png",
+    "static/media/smokeCenter.jpg": "/lostArkReplica/static/media/smokeCenter.9608be09480a365826c9.jpg",
+    "static/media/smoke.png": "/lostArkReplica/static/media/smoke.571f9a47851b9434cacf.png",
+    "static/media/assassin.jpg": "/lostArkReplica/static/media/assassin.5e3dc1b6f89b132ef36e.jpg",
+    "static/media/logo.png": "/lostArkReplica/static/media/logo.020b5f5051efe01d75b5.png",
+    "static/media/18pegi.png": "/lostArkReplica/static/media/18pegi.585045d930f8f70ae758.png",
+    "static/media/exclu.jpg": "/lostArkReplica/static/media/exclu.ae2c57a719ef89e0e28f.jpg",
+    "static/media/la-icon.png": "/lostArkReplica/static/media/la-icon.6196e39a14876f3f0c08.png",
+    "static/media/violence.png": "/lostArkReplica/static/media/violence.2159a2baebfac6257238.png",
+    "static/media/mobs.jpg": "/lostArkReplica/static/media/mobs.20740354f7ce508b5f6b.jpg",
+    "static/media/hero.jpg": "/lostArkReplica/static/media/hero.c600de573fc3ada10aee.jpg",
+    "static/media/prime.jpg": "/lostArkReplica/static/media/prime.302f3d8a45a8ba818059.jpg",
+    "static/media/twitch.jpg": "/lostArkReplica/static/media/twitch.5906f6d1f93cda3ec668.jpg",
+    "static/media/island.jpg": "/lostArkReplica/static/media/island.fa0ab4240f572dfe7c76.jpg",
+    "static/media/bgblue.jpg": "/lostArkReplica/static/media/bgblue.6613ff61f3c49ab2e415.jpg",
+    "static/media/arena.jpg": "/lostArkReplica/static/media/arena.4a84ed495eed2c38b6da.jpg",
+    "static/media/boule.jpg": "/lostArkReplica/static/media/boule.a8615b0ae82deaf8d4cf.jpg",
+    "static/media/arkweek.png": "/lostArkReplica/static/media/arkweek.0b628c3ee1cbee6ffac9.png",
+    "index.html": "/lostArkReplica/index.html",
+    "main.b8883058.css.map": "/lostArkReplica/static/css/main.b8883058.css.map",
+    "main.5d2c7d72.js.map": "/lostArkReplica/static/js/main.5d2c7d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8883058.css",
+    "static/js/main.5d2c7d72.js"
+  ]
+}
