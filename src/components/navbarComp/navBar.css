@@ -1,0 +1,156 @@
+@import url(//db.onlinewebfonts.com/c/bf9f5d50c1b928ff21436517a1a95ad9?family=Proxima+Nova);
+@import url(//db.onlinewebfonts.com/c/cef009888ec0e6c3fdbb27db91a57b8f?family=Proxima+Nova+A);
+
+.sectionNav {
+    height: 150px;
+}
+
+.navBarContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(14, 14, 14);
+    
+}
+
+.logoImg {
+    height: 24px;
+    width: 90px;
+    cursor: pointer;
+}
+
+.navBar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+
+}
+
+.navLi {
+    list-style: none;
+}
+
+
+.liBtn {
+    margin-left: 3px;
+    padding: 5px;
+    background-color: rgb(14, 14, 14);
+    border: none;
+    font-family: "Proxima Nova A", sans-serif;
+    letter-spacing: .1em;
+    font-weight: 900;
+    font-size: 8px;
+    font-style: normal;
+    text-indent: 0;
+    cursor: pointer;
+    font-style: normal;
+    line-height: 1;
+    border-width: 1px;
+    border-bottom: .5px solid;
+    border-color: transparent;
+    color: rgb(190, 188, 188);
+    text-decoration: none;
+    transition-property: color, border-bottom;
+    transition-duration: .35s;
+    transition-timing-function: ease-in-out;
+
+   
+}
+
+.liBtn:hover {
+    color: white;
+    border-color: rgb(247, 210, 109);
+}
+
+
+
+.packBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(207,180,111);
+    background-color: transparent;
+    color: white;
+    padding: 5px;
+    font-family: "Proxima Nova A", sans-serif;
+    letter-spacing: .1em;
+    font-weight: 900;
+    font-size: 8px;
+    background-color: transparent;
+    transition-property: color, background-color;
+    transition-duration: 0.35s;
+    transition-timing-function: ease-in-out;
+    width: 150px;
+    font-size: 9px;
+}
+
+.packBtn:hover {
+    cursor: pointer;
+    color: black;
+    background-color: rgb(207,180,111);
+    background: linear-gradient(90deg, rgba(207,180,111,0.8267682072829132) 15%, rgba(232,222,195,1) 50%, rgba(203,175,102,1) 85%);
+}
+
+/* dropDown menus */
+
+.container-dd {
+    font-family: "Proxima Nova A", sans-serif;
+    position: fixed;
+    background: rgb(14, 14, 14);
+    width: 50px;
+    font-size: 7.5px;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    height: 110px;
+    
+}
+
+.container-ddCom {
+    font-family: "Proxima Nova A", sans-serif;
+    position: fixed;
+    background: rgb(14, 14, 14);
+    width: 120px;
+    font-size: 7.5px;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    height: 110px;
+}
+
+.container-ddSupp {
+    font-family: "Proxima Nova A", sans-serif;
+    position: fixed;
+    background: rgb(14, 14, 14);
+    width: 100px;
+    font-size: 7.5px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+}
+
+.dd-li {
+    color: rgb(190, 188, 188);
+    margin-top: 7px;
+    margin-bottom: 1px;
+    padding: 2px;
+    margin-left: 5px;
+    margin-right: 4px;
+    letter-spacing: .1em;
+    line-height: 1;
+    position:relative;
+    z-index: 99 !important;
+    transition: color 0.3s ease-in-out;
+}
+
+
+.dd-li:hover {
+   
+    color: white;
+    cursor: pointer;
+}
+
