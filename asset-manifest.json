@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lostArkReplica/static/css/main.5fb15419.css",
-    "main.js": "/lostArkReplica/static/js/main.25018e9f.js",
+    "main.js": "/lostArkReplica/static/js/main.8e83fab9.js",
     "static/media/bgApropos.jpeg": "/lostArkReplica/static/media/bgApropos.e1621bb8e1ea51b7a67a.jpeg",
     "static/media/cash.png": "/lostArkReplica/static/media/cash.4c9e0898683efcf12898.png",
     "static/media/smokeCenter.jpg": "/lostArkReplica/static/media/smokeCenter.9608be09480a365826c9.jpg",
@@ -23,10 +23,10 @@
     "static/media/arkweek.png": "/lostArkReplica/static/media/arkweek.0b628c3ee1cbee6ffac9.png",
     "index.html": "/lostArkReplica/index.html",
     "main.5fb15419.css.map": "/lostArkReplica/static/css/main.5fb15419.css.map",
-    "main.25018e9f.js.map": "/lostArkReplica/static/js/main.25018e9f.js.map"
+    "main.8e83fab9.js.map": "/lostArkReplica/static/js/main.8e83fab9.js.map"
   },
   "entrypoints": [
     "static/css/main.5fb15419.css",
-    "static/js/main.25018e9f.js"
+    "static/js/main.8e83fab9.js"
   ]
 }
