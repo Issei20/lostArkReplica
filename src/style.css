@@ -123,7 +123,7 @@ body {
     max-width: 1920px;
     position: relative;
     background-repeat: no-repeat;
-    background-image: url(./bgApropos.jpeg); 
+    background-image: url(./components/media/bgApropos.jpeg); 
     background-size: 100% 630px ;
 }
 
@@ -193,7 +193,7 @@ body {
     max-width: 1920px;
     position: relative;
     background-repeat: no-repeat;
-    background-image: url(./assassin.jpg); 
+    background-image: url(./components/media/assassin.jpg); 
     background-size: 100% 490px ;
 }
 
@@ -411,7 +411,7 @@ body {
     max-width: 1920px;
     position: relative;
     background-repeat: no-repeat;
-    background-image: url(./bgblue.jpg);
+    background-image: url(./components/media/bgblue.jpg);
     background-size: 100% 1000px ;
     flex-direction: column;
     gap: 30px;
@@ -543,7 +543,7 @@ body {
     max-width: 1920px;
     position: relative;
     background-repeat: no-repeat;
-    background-image: url(./exclu.jpg);
+    background-image: url(./components/media/exclu.jpg);
     background-size: 100% 200px ;
     background-size: cover;
     flex-direction: column;
@@ -597,7 +597,7 @@ body {
     width: 200px;
     font-size: 1rem;
     font-weight: bold;
-    background-image: url(./la-icon.png);
+    background-image: url(./components/media/la-icon.png);
     background-repeat: no-repeat;
     background-size: 70px 65px;
     background-position:center;
